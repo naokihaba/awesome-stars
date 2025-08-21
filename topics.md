@@ -378,6 +378,7 @@
 
 ## vue 
 
+- [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
 - [danielroe/nuxt-vapor-demo](https://github.com/danielroe/nuxt-vapor-demo) - A demo showcasing Vue's new Vapor Mode compilation with benchmark tests inspired by js-framework-benchmark.
 - [sxzz/vue-jsx-playground](https://github.com/sxzz/vue-jsx-playground) - A playground for Vue JSX.
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
