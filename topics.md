@@ -212,6 +212,8 @@
 
 ## others 
 
+- [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
+- [sxzz/unotp](https://github.com/sxzz/unotp) - Automatically complete npm OTP 2FA.
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [fujiwara/ecsta](https://github.com/fujiwara/ecsta) - ECS Task Assistant tool.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
