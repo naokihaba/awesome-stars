@@ -84,6 +84,7 @@
 
 ## TypeScript 
 
+- [intlify/eslint-plugin-vue-i18n](https://github.com/intlify/eslint-plugin-vue-i18n) - :globe_with_meridians: ESLint plugin for Vue I18n
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [vuejs/test-utils](https://github.com/vuejs/test-utils) - Vue Test Utils for Vue 3
 - [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion and typecheck to Nuxt router
@@ -101,7 +102,6 @@
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
 - [antfu/pkg-exports](https://github.com/antfu/pkg-exports) - Get exports of an local npm package.
-- [ubugeeei/ai-voice-calling](https://github.com/ubugeeei/ai-voice-calling) - 
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
 - [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
@@ -183,6 +183,7 @@
 
 ## Vue 
 
+- [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website) - https://vuefes.jp/2025 mirror repository (Currently updating manually)
 - [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [nuxtlabs/docus](https://github.com/nuxtlabs/docus) - Write beautiful documentations with Nuxt and Markdown.
