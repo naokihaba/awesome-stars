@@ -43,6 +43,7 @@
 
 ## JavaScript 
 
+- [voidzero-dev/vibe-dashboard](https://github.com/voidzero-dev/vibe-dashboard) - 
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
 - [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
@@ -78,6 +79,7 @@
 
 ## Rust 
 
+- [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -183,6 +185,8 @@
 
 ## Vue 
 
+- [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
+- [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
 - [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website) - https://vuefes.jp/2025 mirror repository (Currently updating manually)
 - [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
