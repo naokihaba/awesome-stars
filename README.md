@@ -185,6 +185,7 @@
 
 ## Vue 
 
+- [nakajima-sh-cnctor/nuxt4-firebase-chat](https://github.com/nakajima-sh-cnctor/nuxt4-firebase-chat) - Nuxt4の勉強開発「チャットアプリ」
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
 - [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website) - https://vuefes.jp/2025 mirror repository (Currently updating manually)
