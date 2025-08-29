@@ -214,6 +214,7 @@
 
 ## others 
 
+- [nakajima-sh-cnctor/nuxt4-firebase-chat](https://github.com/nakajima-sh-cnctor/nuxt4-firebase-chat) - Nuxt4の勉強開発「チャットアプリ」
 - [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
 - [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - 
 - [voidzero-dev/vibe-dashboard](https://github.com/voidzero-dev/vibe-dashboard) - 
