@@ -13,6 +13,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -79,13 +80,18 @@
 
 ## Rust 
 
-- [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - 
+- [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - JavaScript plugins on Rust demo
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
+## Svelte 
+
+- [argyleink/gradient-style](https://github.com/argyleink/gradient-style) - https://discord.gg/nm4mkWxF
+
 ## TypeScript 
 
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [intlify/eslint-plugin-vue-i18n](https://github.com/intlify/eslint-plugin-vue-i18n) - :globe_with_meridians: ESLint plugin for Vue I18n
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [vuejs/test-utils](https://github.com/vuejs/test-utils) - Vue Test Utils for Vue 3
