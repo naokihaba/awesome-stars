@@ -13,6 +13,7 @@
 - [cli](#cli)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
+- [css](#css)
 - [data-visualization](#data-visualization)
 - [developer-tools](#developer-tools)
 - [docker](#docker)
@@ -95,6 +96,10 @@
 ## continuous-integration 
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+## css 
+
+- [argyleink/gradient-style](https://github.com/argyleink/gradient-style) - https://discord.gg/nm4mkWxF
 
 ## data-visualization 
 
@@ -214,9 +219,10 @@
 
 ## others 
 
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [nakajima-sh-cnctor/nuxt4-firebase-chat](https://github.com/nakajima-sh-cnctor/nuxt4-firebase-chat) - Nuxt4の勉強開発「チャットアプリ」
 - [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
-- [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - 
+- [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - JavaScript plugins on Rust demo
 - [voidzero-dev/vibe-dashboard](https://github.com/voidzero-dev/vibe-dashboard) - 
 - [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website) - https://vuefes.jp/2025 mirror repository (Currently updating manually)
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
