@@ -196,7 +196,7 @@
 
 ## Vue 
 
-- [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution
+- [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution ✨
 - [nakajima-sh-cnctor/nuxt4-firebase-chat](https://github.com/nakajima-sh-cnctor/nuxt4-firebase-chat) - Nuxt4の勉強開発「チャットアプリ」
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
