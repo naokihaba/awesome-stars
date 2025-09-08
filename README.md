@@ -80,6 +80,7 @@
 
 ## Rust 
 
+- [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all plaform, once for all.
 - [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - JavaScript plugins on Rust demo
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
@@ -91,6 +92,7 @@
 
 ## TypeScript 
 
+- [ushironoko/dotfiles](https://github.com/ushironoko/dotfiles) - my dotfiles
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [unplugin/unplugin-macros](https://github.com/unplugin/unplugin-macros) - Macros plugin for bundlers.
 - [directus/rstore](https://github.com/directus/rstore) - The Reactive Data Store for Vue and Nuxt developers.
