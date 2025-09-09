@@ -220,6 +220,7 @@
 
 ## others 
 
+- [antfu/starter-vue-webcomponent-uno](https://github.com/antfu/starter-vue-webcomponent-uno) - Starter for creating agnostic WebComponents using Vue and UnoCSS
 - [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all plaform, once for all.
 - [ushironoko/dotfiles](https://github.com/ushironoko/dotfiles) - my dotfiles
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
@@ -238,11 +239,11 @@
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [fujiwara/ecsta](https://github.com/fujiwara/ecsta) - ECS Task Assistant tool.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc) - Remark plugin to support MDC syntax.
+- [nuxt-content/remark-mdc](https://github.com/nuxt-content/remark-mdc) - Remark plugin to support MDC syntax.
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [sushichan044/eslint-toolbox](https://github.com/sushichan044/eslint-toolbox) - A toolkit for maximizing your use of ESLint
 - [okohs/Curriculum-Vitae-template](https://github.com/okohs/Curriculum-Vitae-template) - This is template of curriculum vitae. Please use this template when need your curriculum vitae.
-- [nuxtlabs/docus](https://github.com/nuxtlabs/docus) - Write beautiful documentations with Nuxt and Markdown.
+- [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [unjs/c12](https://github.com/unjs/c12) - ⚙️ Smart Configuration Loader
 - [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
@@ -401,7 +402,7 @@
 
 ## vue 
 
-- [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution ✨
+- [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution 🤖
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion and typecheck to Nuxt router
 - [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
