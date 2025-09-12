@@ -89,7 +89,7 @@
 
 ## Svelte 
 
-- [argyleink/gradient-style](https://github.com/argyleink/gradient-style) - https://discord.gg/nm4mkWxF
+- [argyleink/gradient-style](https://github.com/argyleink/gradient-style) - A CSS4 and CSS5 full features gradient generator. Join the Discord https://discord.gg/nm4mkWxF
 
 ## TypeScript 
 
