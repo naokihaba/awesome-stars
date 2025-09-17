@@ -93,6 +93,7 @@
 
 ## TypeScript 
 
+- [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [vuetifyjs/0](https://github.com/vuetifyjs/0) - Meta Framework for building UI Libraries
 - [sxzz/npm-top-provenance](https://github.com/sxzz/npm-top-provenance) - Provenance of High Impact on npm
 - [antfu/starter-vue-webcomponent-uno](https://github.com/antfu/starter-vue-webcomponent-uno) - Starter for creating agnostic WebComponents using Vue and UnoCSS
@@ -202,6 +203,7 @@
 
 ## Vue 
 
+- [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [monterail/vue-plugins](https://github.com/monterail/vue-plugins) - Discover and explore the best Vue.js plugins to supercharge your applications.  Curated by the community, maintained by developers.
 - [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution 🤖
 - [nakajima-sh-cnctor/nuxt4-firebase-chat](https://github.com/nakajima-sh-cnctor/nuxt4-firebase-chat) - Nuxt4の勉強開発「チャットアプリ」
