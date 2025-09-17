@@ -178,6 +178,7 @@
 
 ## javascript 
 
+- [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
@@ -228,6 +229,7 @@
 
 ## others 
 
+- [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [sxzz/npm-top-provenance](https://github.com/sxzz/npm-top-provenance) - Provenance of High Impact on npm
 - [antfu/starter-vue-webcomponent-uno](https://github.com/antfu/starter-vue-webcomponent-uno) - Starter for creating agnostic WebComponents using Vue and UnoCSS
 - [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all plaform, once for all.
@@ -395,6 +397,7 @@
 
 ## typescript 
 
+- [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [vuetifyjs/0](https://github.com/vuetifyjs/0) - Meta Framework for building UI Libraries
 - [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - 🚦Provide autocompletion and typecheck to Nuxt router
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
