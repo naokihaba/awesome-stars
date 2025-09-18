@@ -65,6 +65,7 @@
 
 ## Others 
 
+- [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [okohs/Curriculum-Vitae-template](https://github.com/okohs/Curriculum-Vitae-template) - This is template of curriculum vitae. Please use this template when need your curriculum vitae.
 - [oxc-project/oxc-perf-wins](https://github.com/oxc-project/oxc-perf-wins) - 
 - [vuejs/art](https://github.com/vuejs/art) - 🎨 Artworks
@@ -93,6 +94,9 @@
 
 ## TypeScript 
 
+- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm catalogs with additional features.
+- [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
+- [danielroe/provenance-action](https://github.com/danielroe/provenance-action) - Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [vuetifyjs/0](https://github.com/vuetifyjs/0) - Meta Framework for building UI Libraries
 - [sxzz/npm-top-provenance](https://github.com/sxzz/npm-top-provenance) - Provenance of High Impact on npm
