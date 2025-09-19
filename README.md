@@ -44,6 +44,8 @@
 
 ## JavaScript 
 
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - 
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
@@ -55,6 +57,7 @@
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
 - [vueuse/vue-demi](https://github.com/vueuse/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
+- [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
 - [vueform/vueform](https://github.com/vueform/vueform) - Open-Source Form Framework for Vue
 - [Rich-Harris/magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard
 - [yyx990803/bundle-size-benchmark](https://github.com/yyx990803/bundle-size-benchmark) - 
@@ -225,7 +228,6 @@
 - [TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025) - 
 - [sxzz/rolldown-browser](https://github.com/sxzz/rolldown-browser) - Rolldown on Browser
 - [LittleSound/talks](https://github.com/LittleSound/talks) - Slides & code for Rizumu's talks
-- [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
 - [nuxt-hub/multiplayer-globe](https://github.com/nuxt-hub/multiplayer-globe) - Display website visitor locations in real-time using Nuxt and NuxtHub.
 - [posva/talk-vue-nation-2025](https://github.com/posva/talk-vue-nation-2025) - Clean Async State Management
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
