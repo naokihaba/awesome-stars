@@ -230,6 +230,9 @@
 
 ## others 
 
+- [sxzz/rolldown-plugin-require-cjs](https://github.com/sxzz/rolldown-plugin-require-cjs) - Transform ESM imports to CJS requires when the imported module is pure CJS
+- [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
+- [vitejs/vite-plugin-basic-ssl](https://github.com/vitejs/vite-plugin-basic-ssl) - Basic https setup using an automatically generated self-signed certificate
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - 
 - [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
