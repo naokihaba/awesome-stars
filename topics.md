@@ -18,6 +18,7 @@
 - [css](#css)
 - [data-visualization](#data-visualization)
 - [developer-tools](#developer-tools)
+- [devops](#devops)
 - [docker](#docker)
 - [electron](#electron)
 - [eslint](#eslint)
@@ -121,6 +122,10 @@
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
+## devops 
+
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+
 ## docker 
 
 - [acidlemon/mirage-ecs](https://github.com/acidlemon/mirage-ecs) - mirage (github.com/acidlemon/mirage) for Amazon ECS
@@ -151,6 +156,7 @@
 
 ## github 
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 
@@ -185,6 +191,7 @@
 
 ## javascript 
 
+- [vercel/bidc](https://github.com/vercel/bidc) - Bidirectional Channels for JavaScript
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
