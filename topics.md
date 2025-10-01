@@ -30,6 +30,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [javascript](#javascript)
+- [language](#language)
 - [library](#library)
 - [llm](#llm)
 - [markdown](#markdown)
@@ -86,7 +87,7 @@
 ## cli 
 
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm catalogs with additional features.
+- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm and yarn catalogs with additional features.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
@@ -193,6 +194,7 @@
 
 ## javascript 
 
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [vercel/bidc](https://github.com/vercel/bidc) - Bidirectional Channels for JavaScript
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
@@ -206,6 +208,10 @@
 - [ismail9k/vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
+
+## language 
+
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 
 ## library 
 
