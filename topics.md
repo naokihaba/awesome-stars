@@ -252,6 +252,7 @@
 
 ## others 
 
+- [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
 - [ota-meshi/eslint-plugin-markdown-preferences](https://github.com/ota-meshi/eslint-plugin-markdown-preferences) - ESLint plugin that enforces our markdown preferences.
@@ -265,7 +266,7 @@
 - [sxzz/rolldown-plugin-require-cjs](https://github.com/sxzz/rolldown-plugin-require-cjs) - Transform ESM imports to CJS requires when the imported module is pure CJS
 - [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
 - [vitejs/vite-plugin-basic-ssl](https://github.com/vitejs/vite-plugin-basic-ssl) - Basic https setup using an automatically generated self-signed certificate
-- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - 
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Aikido Safe Chain prevents developers from installing malicious code via npm, yarn, pnpm, npx, and pnpx. Free to use, no tokens required.
 - [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [sxzz/npm-top-provenance](https://github.com/sxzz/npm-top-provenance) - Provenance of High Impact on npm
