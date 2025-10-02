@@ -45,7 +45,7 @@
 ## JavaScript 
 
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - 
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Aikido Safe Chain prevents developers from installing malicious code via npm, yarn, pnpm, npx, and pnpx. Free to use, no tokens required.
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
@@ -100,6 +100,7 @@
 
 ## TypeScript 
 
+- [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
 - [vercel/bidc](https://github.com/vercel/bidc) - Bidirectional Channels for JavaScript
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
