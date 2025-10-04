@@ -100,6 +100,7 @@
 
 ## TypeScript 
 
+- [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [typed-ember/glint](https://github.com/typed-ember/glint) - TypeScript powered tooling for Glimmer templates
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
@@ -229,6 +230,7 @@
 
 ## Vue 
 
+- [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25) - 
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [monterail/vue-plugins](https://github.com/monterail/vue-plugins) - Discover and explore the best Vue.js plugins to supercharge your applications.  Curated by the community, maintained by developers.
