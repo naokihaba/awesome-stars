@@ -36,6 +36,7 @@
 - [markdown](#markdown)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -236,6 +237,10 @@
 ## mysql 
 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+
+## nlp 
+
+- [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 
 ## node 
 
@@ -440,6 +445,7 @@
 
 ## typescript 
 
+- [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
@@ -463,6 +469,7 @@
 
 ## vue 
 
+- [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [monterail/vue-plugins](https://github.com/monterail/vue-plugins) - Discover and explore the best Vue.js plugins to supercharge your applications.  Curated by the community, maintained by developers.
@@ -496,6 +503,7 @@
 
 ## vuejs 
 
+- [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [vueform/vueform](https://github.com/vueform/vueform) - Open-Source Form Framework for Vue
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
