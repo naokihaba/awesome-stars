@@ -258,6 +258,7 @@
 
 ## others 
 
+- [NativeScript/ns-vue-vite-demo](https://github.com/NativeScript/ns-vue-vite-demo) - Use Vite with NativeScript Vue
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
