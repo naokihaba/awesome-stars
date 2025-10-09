@@ -100,6 +100,7 @@
 
 ## TypeScript 
 
+- [NativeScript/ns-vue-vite-demo](https://github.com/NativeScript/ns-vue-vite-demo) - Use Vite with NativeScript Vue
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [typed-ember/glint](https://github.com/typed-ember/glint) - TypeScript powered tooling for Glimmer templates
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
