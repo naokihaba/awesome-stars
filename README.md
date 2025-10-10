@@ -45,7 +45,7 @@
 ## JavaScript 
 
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Aikido Safe Chain prevents developers from installing malicious code via npm, yarn, pnpm, npx, and pnpx. Free to use, no tokens required.
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
@@ -100,6 +100,7 @@
 
 ## TypeScript 
 
+- [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [NativeScript/ns-vue-vite-demo](https://github.com/NativeScript/ns-vue-vite-demo) - Use Vite with NativeScript Vue
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [typed-ember/glint](https://github.com/typed-ember/glint) - TypeScript powered tooling for Glimmer templates
