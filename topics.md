@@ -274,7 +274,7 @@
 - [sxzz/rolldown-plugin-require-cjs](https://github.com/sxzz/rolldown-plugin-require-cjs) - Transform ESM imports to CJS requires when the imported module is pure CJS
 - [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
 - [vitejs/vite-plugin-basic-ssl](https://github.com/vitejs/vite-plugin-basic-ssl) - Basic https setup using an automatically generated self-signed certificate
-- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Aikido Safe Chain prevents developers from installing malicious code via npm, yarn, pnpm, npx, and pnpx. Free to use, no tokens required.
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.
 - [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [sxzz/npm-top-provenance](https://github.com/sxzz/npm-top-provenance) - Provenance of High Impact on npm
@@ -470,6 +470,7 @@
 
 ## vue 
 
+- [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
@@ -504,6 +505,7 @@
 
 ## vuejs 
 
+- [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [vueform/vueform](https://github.com/vueform/vueform) - Open-Source Form Framework for Vue
@@ -515,6 +517,7 @@
 
 ## webpack 
 
+- [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 
 ## windows 
