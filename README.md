@@ -100,6 +100,9 @@
 
 ## TypeScript 
 
+- [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from a existing eslint flat config.
+- [h3js/rendu](https://github.com/h3js/rendu) - 🏎️ JavaScript Hypertext Preprocessor. [experimental]
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
 - [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [NativeScript/ns-vue-vite-demo](https://github.com/NativeScript/ns-vue-vite-demo) - Use Vite with NativeScript Vue
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
@@ -232,6 +235,8 @@
 
 ## Vue 
 
+- [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
+- [TheAlexLichter/talk-rolldown-viteconf-25](https://github.com/TheAlexLichter/talk-rolldown-viteconf-25) - 
 - [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25) - 
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
