@@ -100,6 +100,8 @@
 
 ## TypeScript 
 
+- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
+- [qmhc/unplugin-dts](https://github.com/qmhc/unplugin-dts) - An unplugin for generating declaration (dts) files.
 - [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from a existing eslint flat config.
 - [h3js/rendu](https://github.com/h3js/rendu) - 🏎️ JavaScript Hypertext Preprocessor. [experimental]
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
@@ -123,7 +125,7 @@
 - [sxzz/rolldown-plugin-require-cjs](https://github.com/sxzz/rolldown-plugin-require-cjs) - Transform ESM imports to CJS requires when the imported module is pure CJS
 - [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
 - [vitejs/vite-plugin-basic-ssl](https://github.com/vitejs/vite-plugin-basic-ssl) - Basic https setup using an automatically generated self-signed certificate
-- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - A CLI tool that extends pnpm and yarn catalogs with additional features.
+- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - Enhanced catalogs feature with pnpm, Yarn, and Bun support.
 - [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 - [danielroe/provenance-action](https://github.com/danielroe/provenance-action) - Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
