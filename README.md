@@ -44,6 +44,7 @@
 
 ## JavaScript 
 
+- [oxc-project/bench-javascript-linter](https://github.com/oxc-project/bench-javascript-linter) - oxc is 50 - 100 times faster than ESLint
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
@@ -100,6 +101,8 @@
 
 ## TypeScript 
 
+- [yamanoku/aria-validate-mcp-server](https://github.com/yamanoku/aria-validate-mcp-server) - Model context protocol server for validating ARIA (Accessible Rich Internet Applications)
+- [imaimai17468/digital-agency-icons](https://github.com/imaimai17468/digital-agency-icons) - 
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
 - [qmhc/unplugin-dts](https://github.com/qmhc/unplugin-dts) - An unplugin for generating declaration (dts) files.
 - [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from a existing eslint flat config.
