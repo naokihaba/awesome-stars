@@ -261,6 +261,9 @@
 
 ## others 
 
+- [oxc-project/bench-javascript-linter](https://github.com/oxc-project/bench-javascript-linter) - oxc is 50 - 100 times faster than ESLint
+- [yamanoku/aria-validate-mcp-server](https://github.com/yamanoku/aria-validate-mcp-server) - Model context protocol server for validating ARIA (Accessible Rich Internet Applications)
+- [imaimai17468/digital-agency-icons](https://github.com/imaimai17468/digital-agency-icons) - 
 - [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from a existing eslint flat config.
 - [h3js/rendu](https://github.com/h3js/rendu) - 🏎️ JavaScript Hypertext Preprocessor. [experimental]
 - [TheAlexLichter/talk-rolldown-viteconf-25](https://github.com/TheAlexLichter/talk-rolldown-viteconf-25) - 
