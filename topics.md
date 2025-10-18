@@ -156,6 +156,7 @@
 
 ## frontend 
 
+- [ittuann/qingshanasd](https://github.com/ittuann/qingshanasd) - 青衫 Neuro 网站 | Official Website for Qing Shan Neuro 🌍
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
