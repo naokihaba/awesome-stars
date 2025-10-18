@@ -44,6 +44,7 @@
 
 ## JavaScript 
 
+- [ittuann/qingshanasd](https://github.com/ittuann/qingshanasd) - 青衫 Neuro 网站 | Official Website for Qing Shan Neuro 🌍
 - [oxc-project/bench-javascript-linter](https://github.com/oxc-project/bench-javascript-linter) - oxc is 50 - 100 times faster than ESLint
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.
