@@ -91,7 +91,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - Enhanced catalogs feature with PNPM, Yarn, and Bun support.
+- [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - Enhanced catalogs feature with PNPM, Yarn, Bun and Vlt support.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
@@ -264,6 +264,7 @@
 
 ## others 
 
+- [antfu/slidev-new](https://github.com/antfu/slidev-new) - Slidev Online, powered by StackBlitz ⚡️
 - [rickhanlonii/async-react](https://github.com/rickhanlonii/async-react) - The final state of the React Conf 2025 Async React talk.
 - [nitrojs/vite-examples](https://github.com/nitrojs/vite-examples) - Nitro v3 + Vite Examples
 - [antfu/static](https://github.com/antfu/static) - Host for static files
