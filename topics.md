@@ -264,6 +264,7 @@
 
 ## others 
 
+- [antfu/slidev-addon-graph](https://github.com/antfu/slidev-addon-graph) - 
 - [antfu/slidev-new](https://github.com/antfu/slidev-new) - Slidev Online, powered by StackBlitz ⚡️
 - [rickhanlonii/async-react](https://github.com/rickhanlonii/async-react) - The final state of the React Conf 2025 Async React talk.
 - [nitrojs/vite-examples](https://github.com/nitrojs/vite-examples) - Nitro v3 + Vite Examples
