@@ -44,6 +44,7 @@
 
 ## JavaScript 
 
+- [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 - [ittuann/qingshanasd](https://github.com/ittuann/qingshanasd) - 青衫 Neuro 网站 | Official Website for Qing Shan Neuro 🌍
 - [oxc-project/bench-javascript-linter](https://github.com/oxc-project/bench-javascript-linter) - oxc is 50 - 100 times faster than ESLint
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -246,6 +247,7 @@
 
 ## Vue 
 
+- [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [antfu/slidev-addon-graph](https://github.com/antfu/slidev-addon-graph) - 
 - [antfu/slidev-new](https://github.com/antfu/slidev-new) - Slidev Online, powered by StackBlitz ⚡️
 - [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
