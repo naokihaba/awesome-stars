@@ -269,6 +269,9 @@
 
 ## others 
 
+- [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
+- [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
+- [CyberAgent/reminder-lint](https://github.com/CyberAgent/reminder-lint) - Code remind tool for any languages and any config files
 - [antfu/slidev-addon-graph](https://github.com/antfu/slidev-addon-graph) - 
 - [antfu/slidev-new](https://github.com/antfu/slidev-new) - Slidev Online, powered by StackBlitz ⚡️
 - [rickhanlonii/async-react](https://github.com/rickhanlonii/async-react) - The final state of the React Conf 2025 Async React talk.
