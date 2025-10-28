@@ -8,6 +8,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -42,6 +43,10 @@
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 
+## HTML 
+
+- [naokihaba/talks](https://github.com/naokihaba/talks) - 
+
 ## JavaScript 
 
 - [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
@@ -71,6 +76,7 @@
 
 ## Others 
 
+- [t3hmrman/2025-vue-fes](https://github.com/t3hmrman/2025-vue-fes) - Vue Fes 2025 Talk Presentation
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [okohs/Curriculum-Vitae-template](https://github.com/okohs/Curriculum-Vitae-template) - This is template of curriculum vitae. Please use this template when need your curriculum vitae.
@@ -271,7 +277,6 @@
 - [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown). Working in Progress
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [LittleSound/talks-template](https://github.com/LittleSound/talks-template) - Talks of Template, using Slidev
-- [yamanoku/technical-verification-from-claude-code](https://github.com/yamanoku/technical-verification-from-claude-code) - Claude Codeに技術検証・調査してもらう場所
 - [rolldown/repl](https://github.com/rolldown/repl) - Rolldown REPL
 - [TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025) - 
 - [sxzz/rolldown-browser](https://github.com/sxzz/rolldown-browser) - Rolldown on Browser
