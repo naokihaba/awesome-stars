@@ -269,6 +269,7 @@
 
 ## others 
 
+- [naokihaba/talks](https://github.com/naokihaba/talks) - 
 - [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
 - [CyberAgent/reminder-lint](https://github.com/CyberAgent/reminder-lint) - Code remind tool for any languages and any config files
@@ -342,7 +343,6 @@
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [XioDone/vite-plugin-url-copy](https://github.com/XioDone/vite-plugin-url-copy) - 🐲 Auto copy the Vite server URL and generate a QR code for easy access during dev or preview.
 - [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint) - ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
-- [yamanoku/technical-verification-from-claude-code](https://github.com/yamanoku/technical-verification-from-claude-code) - Claude Codeに技術検証・調査してもらう場所
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [oxc-project/oxc-perf-wins](https://github.com/oxc-project/oxc-perf-wins) - 
 - [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - The all-in-one Vite plugin for React projects.
@@ -548,6 +548,7 @@
 
 ## vuejs 
 
+- [t3hmrman/2025-vue-fes](https://github.com/t3hmrman/2025-vue-fes) - Vue Fes 2025 Talk Presentation
 - [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
