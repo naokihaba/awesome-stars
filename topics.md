@@ -278,7 +278,7 @@
 - [rickhanlonii/async-react](https://github.com/rickhanlonii/async-react) - The final state of the React Conf 2025 Async React talk.
 - [nitrojs/vite-examples](https://github.com/nitrojs/vite-examples) - Nitro v3 + Vite Examples
 - [antfu/static](https://github.com/antfu/static) - Host for static files
-- [oxc-project/bench-javascript-linter](https://github.com/oxc-project/bench-javascript-linter) - oxc is 50 - 100 times faster than ESLint
+- [oxc-project/bench-linter](https://github.com/oxc-project/bench-linter) - Oxlint is 50 - 100 times faster than ESLint
 - [yamanoku/aria-validate-mcp-server](https://github.com/yamanoku/aria-validate-mcp-server) - Model context protocol server for validating ARIA (Accessible Rich Internet Applications)
 - [imaimai17468/digital-agency-icons](https://github.com/imaimai17468/digital-agency-icons) - 
 - [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from a existing eslint flat config.
@@ -406,7 +406,7 @@
 - [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous) - a minimum replicate repo of VueUse
 - [vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja) - Japanese translation for Vue docs
 - [LinusBorg/slidev-theme-vuetiful](https://github.com/LinusBorg/slidev-theme-vuetiful) - A Slidev Theme for my talks about Vue.js
-- [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
+- [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
 
 ## package-manager 
 
