@@ -269,6 +269,9 @@
 
 ## others 
 
+- [hashrock/ono](https://github.com/hashrock/ono) - Minimalist SSG framework, powered by tsc's JSX transformer
+- [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
+- [dominikg/remote-functions-japan-2025](https://github.com/dominikg/remote-functions-japan-2025) - 
 - [naokihaba/talks](https://github.com/naokihaba/talks) - 
 - [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
