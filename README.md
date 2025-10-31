@@ -49,6 +49,7 @@
 
 ## JavaScript 
 
+- [hashrock/ono](https://github.com/hashrock/ono) - Minimalist SSG framework, powered by tsc's JSX transformer
 - [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 - [ittuann/qingshanasd](https://github.com/ittuann/qingshanasd) - 青衫 Neuro 网站 | Official Website for Qing Shan Neuro 🌍
 - [oxc-project/bench-linter](https://github.com/oxc-project/bench-linter) - Oxlint is 50 - 100 times faster than ESLint
@@ -107,10 +108,12 @@
 
 ## Svelte 
 
+- [dominikg/remote-functions-japan-2025](https://github.com/dominikg/remote-functions-japan-2025) - 
 - [argyleink/gradient-style](https://github.com/argyleink/gradient-style) - A CSS4 and CSS5 full features gradient generator. Join the Discord https://discord.gg/nm4mkWxF
 
 ## TypeScript 
 
+- [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
 - [rickhanlonii/async-react](https://github.com/rickhanlonii/async-react) - The final state of the React Conf 2025 Async React talk.
