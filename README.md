@@ -113,6 +113,7 @@
 
 ## TypeScript 
 
+- [kazupon/chibinuxt](https://github.com/kazupon/chibinuxt) - Build Your Own Nuxt
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
@@ -122,7 +123,7 @@
 - [antfu/static](https://github.com/antfu/static) - Host for static files
 - [yamanoku/aria-validate-mcp-server](https://github.com/yamanoku/aria-validate-mcp-server) - Model context protocol server for validating ARIA (Accessible Rich Internet Applications)
 - [imaimai17468/digital-agency-icons](https://github.com/imaimai17468/digital-agency-icons) - 
-- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
+- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic Env Info
 - [qmhc/unplugin-dts](https://github.com/qmhc/unplugin-dts) - An unplugin for generating declaration (dts) files.
 - [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from a existing eslint flat config.
 - [h3js/rendu](https://github.com/h3js/rendu) - 🏎️ JavaScript Hypertext Preprocessor. [experimental]
@@ -225,7 +226,7 @@
 - [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) - Vue Vapor is a variant of Vue that offers rendering without the Virtual DOM.
 - [nuxt-modules/sitemap](https://github.com/nuxt-modules/sitemap) - Powerfully flexible XML Sitemaps that integrate seamlessly, for Nuxt.
 - [ismail9k/vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
-- [antfu/eslint-vitest-rule-tester](https://github.com/antfu/eslint-vitest-rule-tester) - ESLint rule tester with Vitest, with more powerful and friendly APIs.
+- [antfu-collective/eslint-vitest-rule-tester](https://github.com/antfu-collective/eslint-vitest-rule-tester) - ESLint rule tester with Vitest, with more powerful and friendly APIs.
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
 - [oxc-project/oxc-walker](https://github.com/oxc-project/oxc-walker) - A wrapper around `estree-walker` that accepts an `oxc` AST and alternatively uses `oxc-parser` to parse code.
 - [chibivue-study-2024/chibivue-study](https://github.com/chibivue-study-2024/chibivue-study) - chibivueを学ぶrepo
