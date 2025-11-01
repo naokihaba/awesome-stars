@@ -94,7 +94,7 @@
 ## cli 
 
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
+- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic Env Info
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [jinghaihan/pncat](https://github.com/jinghaihan/pncat) - Enhanced catalogs feature with PNPM, Yarn, Bun and Vlt support.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -254,7 +254,7 @@
 
 ## node 
 
-- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
+- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic Env Info
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -269,6 +269,7 @@
 
 ## others 
 
+- [kazupon/chibinuxt](https://github.com/kazupon/chibinuxt) - Build Your Own Nuxt
 - [hashrock/ono](https://github.com/hashrock/ono) - Minimalist SSG framework, powered by tsc's JSX transformer
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [dominikg/remote-functions-japan-2025](https://github.com/dominikg/remote-functions-japan-2025) - 
@@ -395,7 +396,7 @@
 - [yyx990803/bundle-size-benchmark](https://github.com/yyx990803/bundle-size-benchmark) - 
 - [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) - Vue Vapor is a variant of Vue that offers rendering without the Virtual DOM.
 - [nuxt-modules/sitemap](https://github.com/nuxt-modules/sitemap) - Powerfully flexible XML Sitemaps that integrate seamlessly, for Nuxt.
-- [antfu/eslint-vitest-rule-tester](https://github.com/antfu/eslint-vitest-rule-tester) - ESLint rule tester with Vitest, with more powerful and friendly APIs.
+- [antfu-collective/eslint-vitest-rule-tester](https://github.com/antfu-collective/eslint-vitest-rule-tester) - ESLint rule tester with Vitest, with more powerful and friendly APIs.
 - [oxc-project/oxc-walker](https://github.com/oxc-project/oxc-walker) - A wrapper around `estree-walker` that accepts an `oxc` AST and alternatively uses `oxc-parser` to parse code.
 - [chibivue-study-2024/chibivue-study](https://github.com/chibivue-study-2024/chibivue-study) - chibivueを学ぶrepo
 - [unplugin/unplugin-unused](https://github.com/unplugin/unplugin-unused) - Check unused dependencies.
