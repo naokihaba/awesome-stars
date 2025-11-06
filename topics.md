@@ -379,7 +379,7 @@
 - [vuejs/art](https://github.com/vuejs/art) - 🎨 Artworks
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
-- [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - 
+- [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - Tracer for the source code of elements and vdoms in Vue SFC.
 - [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) - Create-tsrouter-app is drop-in replacement for create-react-app that builds TanStack Router based SPA applications
 - [memememomo/clean-serverless-book-sample-v3](https://github.com/memememomo/clean-serverless-book-sample-v3) - 
 - [unplugin/unplugin-oxc](https://github.com/unplugin/unplugin-oxc) - Oxc integration for unplugin.
