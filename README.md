@@ -207,7 +207,7 @@
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [antfu/nuxt-mcp](https://github.com/antfu/nuxt-mcp) - MCP server helping models to understand your Vite/Nuxt app better.
-- [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - 
+- [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - Tracer for the source code of elements and vdoms in Vue SFC.
 - [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) - Create-tsrouter-app is drop-in replacement for create-react-app that builds TanStack Router based SPA applications
 - [unplugin/unplugin-oxc](https://github.com/unplugin/unplugin-oxc) - Oxc integration for unplugin.
 - [antfu/magic-string-stack](https://github.com/antfu/magic-string-stack) - magic-string with the capability of committing changes.
