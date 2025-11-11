@@ -264,6 +264,7 @@
 
 ## Vue 
 
+- [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [antfu/slidev-addon-graph](https://github.com/antfu/slidev-addon-graph) - 
 - [antfu/slidev-new](https://github.com/antfu/slidev-new) - Slidev Online, powered by StackBlitz ⚡️
