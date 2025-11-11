@@ -277,6 +277,7 @@
 
 ## others 
 
+- [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
 - [tc39/notes](https://github.com/tc39/notes) - TC39 meeting notes
 - [kazupon/chibinuxt](https://github.com/kazupon/chibinuxt) - Build Your Own Nuxt
 - [hashrock/ono](https://github.com/hashrock/ono) - Minimalist SSG framework, powered by tsc's JSX transformer
