@@ -281,6 +281,8 @@
 
 ## others 
 
+- [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
+- [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 - [oxc-project/eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) - Turn off all rules already supported by oxlint
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
 - [tc39/notes](https://github.com/tc39/notes) - TC39 meeting notes
