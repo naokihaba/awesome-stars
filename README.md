@@ -109,11 +109,11 @@
 
 ## Svelte 
 
-- [dominikg/remote-functions-japan-2025](https://github.com/dominikg/remote-functions-japan-2025) - 
 - [argyleink/gradient-style](https://github.com/argyleink/gradient-style) - A CSS4 and CSS5 full features gradient generator. Join the Discord https://discord.gg/nm4mkWxF
 
 ## TypeScript 
 
+- [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [oxc-project/eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) - Turn off all rules already supported by oxlint
