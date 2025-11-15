@@ -281,6 +281,7 @@
 
 ## others 
 
+- [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
 - [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 - [oxc-project/eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) - Turn off all rules already supported by oxlint
@@ -289,7 +290,6 @@
 - [kazupon/chibinuxt](https://github.com/kazupon/chibinuxt) - Build Your Own Nuxt
 - [hashrock/ono](https://github.com/hashrock/ono) - Minimalist SSG framework, powered by tsc's JSX transformer
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
-- [dominikg/remote-functions-japan-2025](https://github.com/dominikg/remote-functions-japan-2025) - 
 - [naokihaba/talks](https://github.com/naokihaba/talks) - 
 - [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
