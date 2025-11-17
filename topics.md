@@ -215,6 +215,7 @@
 
 ## javascript 
 
+- [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [vercel/bidc](https://github.com/vercel/bidc) - Bidirectional Channels for JavaScript
@@ -281,6 +282,7 @@
 
 ## others 
 
+- [sxzz/git-credential-1password-cli](https://github.com/sxzz/git-credential-1password-cli) - A Git credential helper that integrates with 1Password CLI
 - [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
 - [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
