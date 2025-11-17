@@ -96,6 +96,8 @@
 
 ## Rust 
 
+- [sxzz/git-credential-1password-cli](https://github.com/sxzz/git-credential-1password-cli) - A Git credential helper that integrates with 1Password CLI
+- [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [CyberAgent/reminder-lint](https://github.com/CyberAgent/reminder-lint) - Code remind tool for any languages and any config files
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
