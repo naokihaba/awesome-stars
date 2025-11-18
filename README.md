@@ -92,6 +92,7 @@
 
 ## Python 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## Rust 
@@ -115,6 +116,8 @@
 
 ## TypeScript 
 
+- [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - Repo for oxc.rs
+- [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -184,7 +187,6 @@
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [nuxt-content/remark-mdc](https://github.com/nuxt-content/remark-mdc) - Remark plugin to support MDC syntax.
 - [sushichan044/eslint-toolbox](https://github.com/sushichan044/eslint-toolbox) - A toolkit for maximizing your use of ESLint
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [unjs/c12](https://github.com/unjs/c12) - ⚙️ Smart Configuration Loader
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
