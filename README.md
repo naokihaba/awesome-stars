@@ -14,6 +14,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -92,7 +93,6 @@
 
 ## Python 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## Rust 
@@ -110,6 +110,10 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
+## Shell 
+
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
+
 ## Svelte 
 
 - [argyleink/gradient-style](https://github.com/argyleink/gradient-style) - A CSS4 and CSS5 full features gradient generator. Join the Discord https://discord.gg/nm4mkWxF
@@ -122,7 +126,7 @@
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [oxc-project/eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) - Turn off all rules already supported by oxlint
-- [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript
+- [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
 - [antfu/markdown-it-github-alerts](https://github.com/antfu/markdown-it-github-alerts) - Support GitHub-style alerts for markdown-it
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [kazupon/chibinuxt](https://github.com/kazupon/chibinuxt) - Build Your Own Nuxt
