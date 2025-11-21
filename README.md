@@ -277,6 +277,7 @@
 
 ## Vue 
 
+- [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
 - [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
