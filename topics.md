@@ -282,6 +282,7 @@
 
 ## others 
 
+- [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
 - [posva/volar-typed-use-route-repro](https://github.com/posva/volar-typed-use-route-repro) - 
 - [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - Repo for oxc.rs
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
