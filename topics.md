@@ -282,6 +282,8 @@
 
 ## others 
 
+- [yutaka-art/github-contribution-rankings](https://github.com/yutaka-art/github-contribution-rankings) - GitHub Contribution Rankings
+- [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - 
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
 - [posva/volar-typed-use-route-repro](https://github.com/posva/volar-typed-use-route-repro) - 
 - [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - Repo for oxc.rs
@@ -395,7 +397,7 @@
 - [aws-samples/amazon-ecs-for-beginners-catsdogs](https://github.com/aws-samples/amazon-ecs-for-beginners-catsdogs) - [한국어/English]This workshop is designed to educate engineers that might not be familiar with Amazon ECS, Fargate, and possibly even Docker container workflow. It covers Amazon ECS fundamentals and new 
 - [LittleSound/talks](https://github.com/LittleSound/talks) - Slides & code for Rizumu's talks
 - [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
-- [antfu/nuxt-mcp](https://github.com/antfu/nuxt-mcp) - MCP server helping models to understand your Vite/Nuxt app better.
+- [antfu/nuxt-mcp-dev](https://github.com/antfu/nuxt-mcp-dev) - MCP server helping models to understand your Vite/Nuxt app better.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [vuejs/art](https://github.com/vuejs/art) - 🎨 Artworks
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
