@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
@@ -18,6 +19,10 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## C# # 
+
+- [yutaka-art/github-contribution-rankings](https://github.com/yutaka-art/github-contribution-rankings) - GitHub Contribution Rankings
 
 ## C++ 
 
@@ -97,6 +102,7 @@
 
 ## Rust 
 
+- [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - 
 - [sxzz/git-credential-1password-cli](https://github.com/sxzz/git-credential-1password-cli) - A Git credential helper that integrates with 1Password CLI
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [CyberAgent/reminder-lint](https://github.com/CyberAgent/reminder-lint) - Code remind tool for any languages and any config files
@@ -222,7 +228,7 @@
 - [sxzz/unloader](https://github.com/sxzz/unloader) - Node.js loader with a Rollup-like interface.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
-- [antfu/nuxt-mcp](https://github.com/antfu/nuxt-mcp) - MCP server helping models to understand your Vite/Nuxt app better.
+- [antfu/nuxt-mcp-dev](https://github.com/antfu/nuxt-mcp-dev) - MCP server helping models to understand your Vite/Nuxt app better.
 - [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - Tracer for the source code of elements and vdoms in Vue SFC.
 - [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app) - Create-tsrouter-app is drop-in replacement for create-react-app that builds TanStack Router based SPA applications
 - [unplugin/unplugin-oxc](https://github.com/unplugin/unplugin-oxc) - Oxc integration for unplugin.
