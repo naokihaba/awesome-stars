@@ -283,7 +283,7 @@
 ## others 
 
 - [yutaka-art/github-contribution-rankings](https://github.com/yutaka-art/github-contribution-rankings) - GitHub Contribution Rankings
-- [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - 
+- [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
 - [posva/volar-typed-use-route-repro](https://github.com/posva/volar-typed-use-route-repro) - 
 - [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - Repo for oxc.rs
