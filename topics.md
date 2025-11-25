@@ -215,6 +215,7 @@
 
 ## javascript 
 
+- [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
@@ -515,6 +516,7 @@
 
 ## typescript 
 
+- [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
@@ -545,6 +547,7 @@
 
 ## vue 
 
+- [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [Barbapapazes/vite-vue-unpic](https://github.com/Barbapapazes/vite-vue-unpic) - Cumulative Layout Shift, when related to images, can be tricky to handle. Learn how to completely remove CLS issues without any manual work.
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
 - [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
