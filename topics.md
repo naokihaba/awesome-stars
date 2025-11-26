@@ -283,6 +283,7 @@
 
 ## others 
 
+- [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [yutaka-art/github-contribution-rankings](https://github.com/yutaka-art/github-contribution-rankings) - GitHub Contribution Rankings
 - [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
