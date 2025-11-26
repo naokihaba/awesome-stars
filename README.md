@@ -26,6 +26,7 @@
 
 ## C++ 
 
+- [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 
 ## CSS 
