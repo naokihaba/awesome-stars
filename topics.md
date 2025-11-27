@@ -15,6 +15,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
@@ -118,6 +119,12 @@
 ## cms 
 
 - [monterail/vue-plugins](https://github.com/monterail/vue-plugins) - Discover and explore the best Vue.js plugins to supercharge your applications.  Curated by the community, maintained by developers.
+
+## command-line 
+
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
 ## compiler 
 
