@@ -37,6 +37,7 @@
 - [library](#library)
 - [llm](#llm)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nlp](#nlp)
@@ -261,6 +262,10 @@
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 
+## mastodon 
+
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
 ## monitoring 
 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -290,6 +295,7 @@
 
 ## others 
 
+- [bcomnes/npm-run-all2](https://github.com/bcomnes/npm-run-all2) - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)
 - [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [yutaka-art/github-contribution-rankings](https://github.com/yutaka-art/github-contribution-rankings) - GitHub Contribution Rankings
 - [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
