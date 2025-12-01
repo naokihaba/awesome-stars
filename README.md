@@ -136,6 +136,7 @@
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
+- [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [oxc-project/eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) - Turn off all rules already supported by oxlint
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
@@ -289,7 +290,6 @@
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
-- [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
 - [Tresjs/nuxt](https://github.com/Tresjs/nuxt) - TresJS integration for Nuxt.
 - [antfu/slidev-addon-graph](https://github.com/antfu/slidev-addon-graph) - 
