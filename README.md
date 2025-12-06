@@ -129,6 +129,7 @@
 
 ## TypeScript 
 
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [unjs/node-mock-http](https://github.com/unjs/node-mock-http) - 
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [posva/volar-typed-use-route-repro](https://github.com/posva/volar-typed-use-route-repro) - 
