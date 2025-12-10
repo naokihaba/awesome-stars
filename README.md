@@ -130,6 +130,7 @@
 
 ## TypeScript 
 
+- [unjs/hookable](https://github.com/unjs/hookable) - 🪝 Awaitable Hooks
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [unjs/node-mock-http](https://github.com/unjs/node-mock-http) - 
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
@@ -291,6 +292,7 @@
 
 ## Vue 
 
+- [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the b
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
