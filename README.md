@@ -56,6 +56,7 @@
 
 ## JavaScript 
 
+- [TheAlexLichter/oxlint-eslint-plugin-compat-demo](https://github.com/TheAlexLichter/oxlint-eslint-plugin-compat-demo) - A minimal demo of eslint-plugin-compat with Oxlint
 - [oxc-project/bench-javascript-parser-written-in-rust](https://github.com/oxc-project/bench-javascript-parser-written-in-rust) - oxc's parser is 3x faster than swc, 5x faster than Biome
 - [bcomnes/npm-run-all2](https://github.com/bcomnes/npm-run-all2) - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)
 - [tc39/notes](https://github.com/tc39/notes) - TC39 meeting notes
@@ -130,6 +131,9 @@
 
 ## TypeScript 
 
+- [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
+- [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [unjs/hookable](https://github.com/unjs/hookable) - 🪝 Awaitable Hooks
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [unjs/node-mock-http](https://github.com/unjs/node-mock-http) - 
