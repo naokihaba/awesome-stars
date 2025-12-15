@@ -81,6 +81,7 @@
 - [vueform/vueform](https://github.com/vueform/vueform) - Open-Source Form Framework for Vue
 - [Rich-Harris/magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard
 - [yyx990803/bundle-size-benchmark](https://github.com/yyx990803/bundle-size-benchmark) - 
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 
 ## OCaml 
 
@@ -114,7 +115,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all plaform, once for all.
+- [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all platform, learning once and applying anywhere
 - [sxzz/rust-js-plugin-demo](https://github.com/sxzz/rust-js-plugin-demo) - JavaScript plugins on Rust demo
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
@@ -131,6 +132,7 @@
 
 ## TypeScript 
 
+- [Technickel-Dev/baseline-mcp](https://github.com/Technickel-Dev/baseline-mcp) - A MCP server for querying baseline web data
 - [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
@@ -284,7 +286,6 @@
 - [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [chibivue-land/vueyous](https://github.com/chibivue-land/vueyous) - a minimum replicate repo of VueUse
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [chibivue-land/chibivue](https://github.com/chibivue-land/chibivue) - chibivue is a minimal vuejs/core implementations (reactivity, virtual dom, component runtime, compiler). An online book for building your own Vue.js.
