@@ -213,6 +213,7 @@
 
 ## hacktoberfest 
 
+- [Technickel-Dev/baseline-mcp](https://github.com/Technickel-Dev/baseline-mcp) - A MCP server for querying baseline web data
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [typed-ember/glint](https://github.com/typed-ember/glint) - TypeScript powered tooling for Glimmer templates
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
@@ -369,7 +370,7 @@
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [sxzz/npm-top-provenance](https://github.com/sxzz/npm-top-provenance) - Provenance of High Impact on npm
 - [antfu/starter-vue-webcomponent-uno](https://github.com/antfu/starter-vue-webcomponent-uno) - Starter for creating agnostic WebComponents using Vue and UnoCSS
-- [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all plaform, once for all.
+- [water-rs/waterui](https://github.com/water-rs/waterui) - Bring your app to all platform, learning once and applying anywhere
 - [ushironoko/dotfiles](https://github.com/ushironoko/dotfiles) - my dotfiles
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [unplugin/unplugin-macros](https://github.com/unplugin/unplugin-macros) - Macros plugin for bundlers.
