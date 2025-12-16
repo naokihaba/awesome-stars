@@ -170,6 +170,7 @@
 
 ## eslint 
 
+- [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
 - [intlify/eslint-plugin-vue-i18n](https://github.com/intlify/eslint-plugin-vue-i18n) - :globe_with_meridians: ESLint plugin for Vue I18n
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors
@@ -237,6 +238,7 @@
 
 ## javascript 
 
+- [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
@@ -312,6 +314,8 @@
 
 ## others 
 
+- [sxzz/eslint-plugin-baseline-js](https://github.com/sxzz/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
+- [ssssota/rolldphobia](https://github.com/ssssota/rolldphobia) - A modern bundle size analyzer powered by Rolldown and esm.sh — running entirely in your browser
 - [TheAlexLichter/oxlint-eslint-plugin-compat-demo](https://github.com/TheAlexLichter/oxlint-eslint-plugin-compat-demo) - A minimal demo of eslint-plugin-compat with Oxlint
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [oxc-project/bench-javascript-parser-written-in-rust](https://github.com/oxc-project/bench-javascript-parser-written-in-rust) - oxc's parser is 3x faster than swc, 5x faster than Biome
