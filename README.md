@@ -36,6 +36,8 @@
 
 ## Go 
 
+- [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖
+- [auvred/golar](https://github.com/auvred/golar) - Embedded languages framework based on typescript-go
 - [fujiwara/ecsta](https://github.com/fujiwara/ecsta) - ECS Task Assistant tool.
 - [acidlemon/mirage-ecs](https://github.com/acidlemon/mirage-ecs) - mirage (github.com/acidlemon/mirage) for Amazon ECS
 - [shiena/ansicolor](https://github.com/shiena/ansicolor) - Ansicolor library provides color console in Windows as ANSICON for Golang.
@@ -56,6 +58,7 @@
 
 ## JavaScript 
 
+- [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [TheAlexLichter/oxlint-eslint-plugin-compat-demo](https://github.com/TheAlexLichter/oxlint-eslint-plugin-compat-demo) - A minimal demo of eslint-plugin-compat with Oxlint
 - [oxc-project/bench-javascript-parser-written-in-rust](https://github.com/oxc-project/bench-javascript-parser-written-in-rust) - oxc's parser is 3x faster than swc, 5x faster than Biome
 - [bcomnes/npm-run-all2](https://github.com/bcomnes/npm-run-all2) - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)
@@ -107,6 +110,7 @@
 
 ## Rust 
 
+- [Brooooooklyn/webcodecs-node](https://github.com/Brooooooklyn/webcodecs-node) - WebCodecs API in Node.js
 - [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
 - [sxzz/git-credential-1password-cli](https://github.com/sxzz/git-credential-1password-cli) - A Git credential helper that integrates with 1Password CLI
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
@@ -132,6 +136,8 @@
 
 ## TypeScript 
 
+- [gaearon/rscexplorer](https://github.com/gaearon/rscexplorer) - A tool for people curious about the React Server Components protocol
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [sxzz/eslint-plugin-baseline-js](https://github.com/sxzz/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
 - [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
 - [ssssota/rolldphobia](https://github.com/ssssota/rolldphobia) - A modern bundle size analyzer powered by Rolldown and esm.sh — running entirely in your browser
