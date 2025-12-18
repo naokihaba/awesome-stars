@@ -36,6 +36,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [javascript](#javascript)
+- [js](#js)
 - [language](#language)
 - [library](#library)
 - [llm](#llm)
@@ -62,6 +63,7 @@
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [testing](#testing)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
 - [vue](#vue)
@@ -245,6 +247,7 @@
 
 ## javascript 
 
+- [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
@@ -264,6 +267,10 @@
 - [ismail9k/vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
+
+## js 
+
+- [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 
 ## language 
 
@@ -565,6 +572,11 @@
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
+
+## tui 
+
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
 ## typescript 
 
