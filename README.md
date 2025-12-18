@@ -58,6 +58,7 @@
 
 ## JavaScript 
 
+- [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [TheAlexLichter/oxlint-eslint-plugin-compat-demo](https://github.com/TheAlexLichter/oxlint-eslint-plugin-compat-demo) - A minimal demo of eslint-plugin-compat with Oxlint
 - [oxc-project/bench-javascript-parser-written-in-rust](https://github.com/oxc-project/bench-javascript-parser-written-in-rust) - oxc's parser is 3x faster than swc, 5x faster than Biome
