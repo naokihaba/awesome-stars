@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
+- [algorithm](#algorithm)
 - [analytics](#analytics)
 - [api](#api)
 - [awesome](#awesome)
@@ -84,6 +85,10 @@
 ## ai-agents 
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+## algorithm 
+
+- [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 
 ## analytics 
 
@@ -331,6 +336,8 @@
 
 ## others 
 
+- [oxc-project/oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
+- [unjs/scule](https://github.com/unjs/scule) - 🧵 String Case Utils
 - [Brooooooklyn/webcodecs-node](https://github.com/Brooooooklyn/webcodecs-node) - WebCodecs API in Node.js
 - [gaearon/rscexplorer](https://github.com/gaearon/rscexplorer) - A tool for people curious about the React Server Components protocol
 - [auvred/golar](https://github.com/auvred/golar) - Embedded languages framework based on typescript-go
