@@ -111,6 +111,7 @@
 
 ## Rust 
 
+- [oxc-project/oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
 - [Brooooooklyn/webcodecs-node](https://github.com/Brooooooklyn/webcodecs-node) - WebCodecs API in Node.js
 - [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
 - [sxzz/git-credential-1password-cli](https://github.com/sxzz/git-credential-1password-cli) - A Git credential helper that integrates with 1Password CLI
@@ -137,6 +138,8 @@
 
 ## TypeScript 
 
+- [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
+- [unjs/scule](https://github.com/unjs/scule) - 🧵 String Case Utils
 - [gaearon/rscexplorer](https://github.com/gaearon/rscexplorer) - A tool for people curious about the React Server Components protocol
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [sxzz/eslint-plugin-baseline-js](https://github.com/sxzz/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
