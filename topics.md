@@ -336,6 +336,8 @@
 
 ## others 
 
+- [oxc-project/oxc-toml](https://github.com/oxc-project/oxc-toml) - Taplo forked for Oxfmt
+- [nuxt-content/studio](https://github.com/nuxt-content/studio) - Edit your Markdown website, in production.
 - [oxc-project/oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
 - [unjs/scule](https://github.com/unjs/scule) - 🧵 String Case Utils
 - [Brooooooklyn/webcodecs-node](https://github.com/Brooooooklyn/webcodecs-node) - WebCodecs API in Node.js
