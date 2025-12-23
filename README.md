@@ -324,7 +324,7 @@
 - [Barbapapazes/pinia-colada-await-invalidate-queries](https://github.com/Barbapapazes/pinia-colada-await-invalidate-queries) - Using Pinia Colada in Modals Without Spoiling the UX
 - [TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25) - 
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
-- [monterail/vue-plugins](https://github.com/monterail/vue-plugins) - Discover and explore the best Vue.js plugins to supercharge your applications.  Curated by the community, maintained by developers.
+- [monterail/vue-plugins](https://github.com/monterail/vue-plugins) - 🧩 Discover and explore the best Vue.js plugins to supercharge your applications.  Curated by the community, maintained by developers.
 - [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution 🤖
 - [nakajima-sh-cnctor/nuxt4-firebase-chat](https://github.com/nakajima-sh-cnctor/nuxt4-firebase-chat) - Nuxt4の勉強開発「チャットアプリ」
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
