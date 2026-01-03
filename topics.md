@@ -17,6 +17,7 @@
 - [css](#css)
 - [devops](#devops)
 - [docker](#docker)
+- [documentation](#documentation)
 - [eslint](#eslint)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -112,6 +113,10 @@
 ## docker 
 
 - [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
+
+## documentation 
+
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 
 ## eslint 
 
@@ -224,6 +229,9 @@
 
 ## others 
 
+- [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning.
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+- [sxzz/rolldown-plugin-wasm](https://github.com/sxzz/rolldown-plugin-wasm) - Rolldown plugin for WASM.
 - [ubugeeei/vue-compiler-rs](https://github.com/ubugeeei/vue-compiler-rs) - hobby
 - [unjs/uncrypto](https://github.com/unjs/uncrypto) - Single API for Web Crypto API and Crypto Subtle working in Node.js, Browsers and other runtimes
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
@@ -406,6 +414,7 @@
 
 ## typescript 
 
+- [flint-fyi/flint](https://github.com/flint-fyi/flint) - [Experimental] A fast, friendly linter. ❤️‍🔥
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
