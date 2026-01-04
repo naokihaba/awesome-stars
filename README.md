@@ -34,6 +34,7 @@
 
 ## JavaScript 
 
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [TheAlexLichter/oxlint-eslint-plugin-compat-demo](https://github.com/TheAlexLichter/oxlint-eslint-plugin-compat-demo) - A minimal demo of eslint-plugin-compat with Oxlint
