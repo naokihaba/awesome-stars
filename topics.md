@@ -11,6 +11,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [bootstrap](#bootstrap)
+- [chrome](#chrome)
 - [cli](#cli)
 - [command-line](#command-line)
 - [compiler](#compiler)
@@ -30,6 +31,7 @@
 - [language](#language)
 - [library](#library)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -80,6 +82,10 @@
 ## bootstrap 
 
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
+
+## chrome 
+
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 
 ## cli 
 
@@ -210,6 +216,11 @@
 - [antfu/markdown-it-github-alerts](https://github.com/antfu/markdown-it-github-alerts) - Support GitHub-style alerts for markdown-it
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 
+## mcp 
+
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [antfu/nuxt-mcp-dev](https://github.com/antfu/nuxt-mcp-dev) - MCP server helping models to understand your Vite/Nuxt app better.
+
 ## node 
 
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
@@ -318,7 +329,6 @@
 - [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [LittleSound/talks](https://github.com/LittleSound/talks) - Slides & code for Rizumu's talks
 - [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
-- [antfu/nuxt-mcp-dev](https://github.com/antfu/nuxt-mcp-dev) - MCP server helping models to understand your Vite/Nuxt app better.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - Tracer for the source code of elements and vdoms in Vue SFC.
 - [unplugin/unplugin-oxc](https://github.com/unplugin/unplugin-oxc) - Oxc integration for unplugin.
