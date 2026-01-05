@@ -9,6 +9,7 @@
 - [CSS](#css)
 - [Go](#go)
 - [JavaScript](#javascript)
+- [MoonBit](#moonbit)
 - [Others](#others)
 - [Rust](#rust)
 - [TypeScript](#typescript)
@@ -52,6 +53,10 @@
 - [yyx990803/bundle-size-benchmark](https://github.com/yyx990803/bundle-size-benchmark) - 
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 
+## MoonBit 
+
+- [mizchi/crater](https://github.com/mizchi/crater) - 
+
 ## Others 
 
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
@@ -80,6 +85,8 @@
 
 ## TypeScript 
 
+- [zenn-dev/zenn-editor](https://github.com/zenn-dev/zenn-editor) - Convert markdown to html in Zenn format
+- [ubugeeei/ox-content](https://github.com/ubugeeei/ox-content) - 
 - [flint-fyi/flint](https://github.com/flint-fyi/flint) - [Experimental] A fast, friendly linter. ❤️‍🔥
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [sxzz/rolldown-plugin-wasm](https://github.com/sxzz/rolldown-plugin-wasm) - Rolldown plugin for WASM.
