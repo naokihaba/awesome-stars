@@ -240,6 +240,9 @@
 
 ## others 
 
+- [zenn-dev/zenn-editor](https://github.com/zenn-dev/zenn-editor) - Convert markdown to html in Zenn format
+- [ubugeeei/ox-content](https://github.com/ubugeeei/ox-content) - 
+- [mizchi/crater](https://github.com/mizchi/crater) - 
 - [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [sxzz/rolldown-plugin-wasm](https://github.com/sxzz/rolldown-plugin-wasm) - Rolldown plugin for WASM.
