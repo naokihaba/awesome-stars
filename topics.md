@@ -17,6 +17,7 @@
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [css](#css)
+- [developer-tools](#developer-tools)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -25,6 +26,8 @@
 - [frontend](#frontend)
 - [git](#git)
 - [github](#github)
+- [go](#go)
+- [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [javascript](#javascript)
@@ -119,6 +122,10 @@
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
 - [nuxt-modules/google-fonts](https://github.com/nuxt-modules/google-fonts) - Google Fonts module for NuxtJS
 
+## developer-tools 
+
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+
 ## devops 
 
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
@@ -163,6 +170,14 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+
+## go 
+
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+
+## golang 
+
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 
 ## hacktoberfest 
 
@@ -250,6 +265,10 @@
 
 ## others 
 
+- [52-entertainment/vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - ⚓️+⚡️- Oxlint plugin for vite.
+- [Devographics/locale-en-US](https://github.com/Devographics/locale-en-US) - 
+- [antfu/nuxt-content-twoslash](https://github.com/antfu/nuxt-content-twoslash) - TwoSlash integrations for Nuxt Content
+- [nuxt/a11y](https://github.com/nuxt/a11y) - Nuxt module to provide accessibility hinting and utilties.
 - [ubugeeei/relanote](https://github.com/ubugeeei/relanote) - 
 - [vitejs/vite-plugin-registry](https://github.com/vitejs/vite-plugin-registry) - Discover plugins for your build tools
 - [zenn-dev/zenn-editor](https://github.com/zenn-dev/zenn-editor) - Convert markdown to html in Zenn format
@@ -258,7 +277,7 @@
 - [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [sxzz/rolldown-plugin-wasm](https://github.com/sxzz/rolldown-plugin-wasm) - Rolldown plugin for WASM.
-- [ubugeeei/vue-compiler-rs](https://github.com/ubugeeei/vue-compiler-rs) - hobby
+- [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial Fastest Vue.js Compiler Collection
 - [unjs/uncrypto](https://github.com/unjs/uncrypto) - Single API for Web Crypto API and Crypto Subtle working in Node.js, Browsers and other runtimes
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
@@ -439,6 +458,7 @@
 
 ## typescript 
 
+- [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [flint-fyi/flint](https://github.com/flint-fyi/flint) - [Experimental] A fast, friendly linter. ❤️‍🔥
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
