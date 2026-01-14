@@ -273,6 +273,9 @@
 
 ## others 
 
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+- [calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react) - React とは何であるのか（執筆中）
+- [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Fast and friendly Node.js devtools
 - [52-entertainment/vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - ⚓️+⚡️- Oxlint plugin for vite.
 - [Devographics/locale-en-US](https://github.com/Devographics/locale-en-US) - 
 - [antfu/nuxt-content-twoslash](https://github.com/antfu/nuxt-content-twoslash) - TwoSlash integrations for Nuxt Content
