@@ -77,6 +77,7 @@
 
 ## Rust 
 
+- [ubugeeei/vraftls](https://github.com/ubugeeei/vraftls) - 
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Fast and friendly Node.js devtools
 - [ubugeeei/relanote](https://github.com/ubugeeei/relanote) - 
