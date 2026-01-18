@@ -64,6 +64,7 @@
 
 ## Others 
 
+- [chibivue-land/art](https://github.com/chibivue-land/art) - 
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
 - [calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react) - React とは何であるのか（執筆中）
 - [Devographics/locale-en-US](https://github.com/Devographics/locale-en-US) - 
