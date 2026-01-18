@@ -280,6 +280,7 @@
 
 ## others 
 
+- [chibivue-land/art](https://github.com/chibivue-land/art) - 
 - [ubugeeei/vraftls](https://github.com/ubugeeei/vraftls) - 
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
