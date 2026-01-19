@@ -99,6 +99,7 @@
 
 ## TypeScript 
 
+- [roberthgnz/nuxt-feature-flags](https://github.com/roberthgnz/nuxt-feature-flags) - A powerful, type-safe feature flag module for Nuxt 3 that enables both static and dynamic feature flag evaluation with server-side support. Perfect for A/B testing, gradual rollouts, and feature manag
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) - Vue, Nuxt, and NuxtHub skills for AI coding assistants.
