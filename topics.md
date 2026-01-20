@@ -280,6 +280,10 @@
 
 ## others 
 
+- [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
+- [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
+- [posva/npm-posva](https://github.com/posva/npm-posva) - npm posva package
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [chibivue-land/art](https://github.com/chibivue-land/art) - 
 - [ubugeeei/vraftls](https://github.com/ubugeeei/vraftls) - 
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
@@ -555,7 +559,6 @@
 
 ## vuejs 
 
-- [roberthgnz/nuxt-feature-flags](https://github.com/roberthgnz/nuxt-feature-flags) - A powerful, type-safe feature flag module for Nuxt 3 that enables both static and dynamic feature flag evaluation with server-side support. Perfect for A/B testing, gradual rollouts, and feature manag
 - [vuejs/babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx) - JSX for Vue 3
 - [unplugin/unplugin-vue](https://github.com/unplugin/unplugin-vue) - ✨ Transform Vue 3 SFC to JavaScript. Supports Vite, esbuild, Rollup, Webpack and more.
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
