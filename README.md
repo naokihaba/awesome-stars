@@ -39,6 +39,7 @@
 
 ## JavaScript 
 
+- [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
@@ -78,6 +79,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ubugeeei/vraftls](https://github.com/ubugeeei/vraftls) - 
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Fast and friendly Node.js devtools
@@ -99,7 +101,8 @@
 
 ## TypeScript 
 
-- [roberthgnz/nuxt-feature-flags](https://github.com/roberthgnz/nuxt-feature-flags) - A powerful, type-safe feature flag module for Nuxt 3 that enables both static and dynamic feature flag evaluation with server-side support. Perfect for A/B testing, gradual rollouts, and feature manag
+- [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
+- [posva/npm-posva](https://github.com/posva/npm-posva) - npm posva package
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) - Vue, Nuxt, and NuxtHub skills for AI coding assistants.
