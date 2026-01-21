@@ -65,6 +65,8 @@
 
 ## Others 
 
+- [voidzero-dev/community-design-resources](https://github.com/voidzero-dev/community-design-resources) - 
+- [voidzero-dev/vite-plus-discussions](https://github.com/voidzero-dev/vite-plus-discussions) - Issue Tracking & Discussions for the Vite+ Technical Preview.
 - [chibivue-land/art](https://github.com/chibivue-land/art) - 
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
 - [calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react) - React とは何であるのか（執筆中）
@@ -101,6 +103,10 @@
 
 ## TypeScript 
 
+- [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
+- [posva/auto-scaffold](https://github.com/posva/auto-scaffold) - Automatically scaffold files by just creating them
+- [chibivue-land/chibinuxt](https://github.com/chibivue-land/chibinuxt) - wip
+- [voidzero-dev/setup-vite-plus-action](https://github.com/voidzero-dev/setup-vite-plus-action) - GitHub Action to set up Vite+ (https://viteplus.dev) with dependency caching support.
 - [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
 - [posva/npm-posva](https://github.com/posva/npm-posva) - npm posva package
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
