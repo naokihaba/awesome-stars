@@ -280,6 +280,12 @@
 
 ## others 
 
+- [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
+- [posva/auto-scaffold](https://github.com/posva/auto-scaffold) - Automatically scaffold files by just creating them
+- [chibivue-land/chibinuxt](https://github.com/chibivue-land/chibinuxt) - wip
+- [voidzero-dev/community-design-resources](https://github.com/voidzero-dev/community-design-resources) - 
+- [voidzero-dev/setup-vite-plus-action](https://github.com/voidzero-dev/setup-vite-plus-action) - GitHub Action to set up Vite+ (https://viteplus.dev) with dependency caching support.
+- [voidzero-dev/vite-plus-discussions](https://github.com/voidzero-dev/vite-plus-discussions) - Issue Tracking & Discussions for the Vite+ Technical Preview.
 - [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
 - [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
 - [posva/npm-posva](https://github.com/posva/npm-posva) - npm posva package
