@@ -39,6 +39,7 @@
 
 ## JavaScript 
 
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
@@ -81,6 +82,7 @@
 
 ## Rust 
 
+- [ushironoko/octorus](https://github.com/ushironoko/octorus) - TUI PR review tool for GitHub
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ubugeeei/vraftls](https://github.com/ubugeeei/vraftls) - 
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
@@ -103,6 +105,7 @@
 
 ## TypeScript 
 
+- [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
 - [posva/auto-scaffold](https://github.com/posva/auto-scaffold) - Automatically scaffold files by just creating them
 - [chibivue-land/chibinuxt](https://github.com/chibivue-land/chibinuxt) - wip
