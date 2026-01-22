@@ -280,6 +280,9 @@
 
 ## others 
 
+- [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
+- [ushironoko/octorus](https://github.com/ushironoko/octorus) - TUI PR review tool for GitHub
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
 - [posva/auto-scaffold](https://github.com/posva/auto-scaffold) - Automatically scaffold files by just creating them
 - [chibivue-land/chibinuxt](https://github.com/chibivue-land/chibinuxt) - wip
