@@ -271,6 +271,7 @@
 
 ## nodejs 
 
+- [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 
@@ -280,6 +281,9 @@
 
 ## others 
 
+- [zhiyuanzmj/vue-jsx-vapor-ssr](https://github.com/zhiyuanzmj/vue-jsx-vapor-ssr) - 
+- [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - 
+- [ubugeeei/fuckin-strict-nuxt](https://github.com/ubugeeei/fuckin-strict-nuxt) - 
 - [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
 - [ushironoko/octorus](https://github.com/ushironoko/octorus) - TUI PR review tool for GitHub
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
