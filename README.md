@@ -39,6 +39,7 @@
 
 ## JavaScript 
 
+- [zhiyuanzmj/vue-jsx-vapor-ssr](https://github.com/zhiyuanzmj/vue-jsx-vapor-ssr) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -105,6 +106,9 @@
 
 ## TypeScript 
 
+- [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
+- [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - 
+- [ubugeeei/fuckin-strict-nuxt](https://github.com/ubugeeei/fuckin-strict-nuxt) - 
 - [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
 - [posva/auto-scaffold](https://github.com/posva/auto-scaffold) - Automatically scaffold files by just creating them
