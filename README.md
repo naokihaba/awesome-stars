@@ -39,6 +39,7 @@
 
 ## JavaScript 
 
+- [edison1105/rolldown-path.default-issue](https://github.com/edison1105/rolldown-path.default-issue) - 
 - [zhiyuanzmj/vue-jsx-vapor-ssr](https://github.com/zhiyuanzmj/vue-jsx-vapor-ssr) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
@@ -108,7 +109,7 @@
 
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
 - [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - 
-- [ubugeeei/fuckin-strict-nuxt](https://github.com/ubugeeei/fuckin-strict-nuxt) - 
+- [ubugeeei/fuckin-strict-nuxt-dmmf](https://github.com/ubugeeei/fuckin-strict-nuxt-dmmf) - 
 - [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
 - [posva/auto-scaffold](https://github.com/posva/auto-scaffold) - Automatically scaffold files by just creating them
@@ -262,6 +263,7 @@
 
 ## Vue 
 
+- [danielroe/npmx.dev](https://github.com/danielroe/npmx.dev) - A fast, modern browser for the npm registry for power users.
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the b
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
