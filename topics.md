@@ -277,13 +277,15 @@
 
 ## npm 
 
+- [danielroe/npmx.dev](https://github.com/danielroe/npmx.dev) - A fast, modern browser for the npm registry for power users.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 
 ## others 
 
+- [edison1105/rolldown-path.default-issue](https://github.com/edison1105/rolldown-path.default-issue) - 
 - [zhiyuanzmj/vue-jsx-vapor-ssr](https://github.com/zhiyuanzmj/vue-jsx-vapor-ssr) - 
 - [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - 
-- [ubugeeei/fuckin-strict-nuxt](https://github.com/ubugeeei/fuckin-strict-nuxt) - 
+- [ubugeeei/fuckin-strict-nuxt-dmmf](https://github.com/ubugeeei/fuckin-strict-nuxt-dmmf) - 
 - [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
 - [ushironoko/octorus](https://github.com/ushironoko/octorus) - TUI PR review tool for GitHub
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
