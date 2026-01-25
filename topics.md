@@ -291,7 +291,7 @@
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
 - [posva/auto-scaffold](https://github.com/posva/auto-scaffold) - Automatically scaffold files by just creating them
-- [chibivue-land/chibinuxt](https://github.com/chibivue-land/chibinuxt) - wip
+- [chibivue-land/chibinuxt](https://github.com/chibivue-land/chibinuxt) - chibinuxt is a minimal Nuxt implementations
 - [voidzero-dev/community-design-resources](https://github.com/voidzero-dev/community-design-resources) - 
 - [voidzero-dev/setup-vite-plus-action](https://github.com/voidzero-dev/setup-vite-plus-action) - GitHub Action to set up Vite+ (https://viteplus.dev) with dependency caching support.
 - [voidzero-dev/vite-plus-discussions](https://github.com/voidzero-dev/vite-plus-discussions) - Issue Tracking & Discussions for the Vite+ Technical Preview.
@@ -338,7 +338,7 @@
 - [unjs/node-mock-http](https://github.com/unjs/node-mock-http) - 
 - [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
-- [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io) - Repo for oxc.rs
+- [oxc-project/website](https://github.com/oxc-project/website) - Repo for oxc.rs
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
@@ -580,7 +580,7 @@
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [ubugeeei/reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor) - To understand how Vue Vapor implemented by reading through the source code.
-- [chibivue-land/chibivue](https://github.com/chibivue-land/chibivue) - chibivue is a minimal vuejs/core implementations (reactivity, virtual dom, component runtime, compiler). An online book for building your own Vue.js.
+- [chibivue-land/chibivue](https://github.com/chibivue-land/chibivue) - chibivue is a minimal vuejs/core implementations (reactivity, virtual dom, component runtime, compiler, vapor, ssr, store, router, language tools). An online book for building your own Vue.js.
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 
 ## web 
