@@ -277,7 +277,7 @@
 
 ## npm 
 
-- [danielroe/npmx.dev](https://github.com/danielroe/npmx.dev) - A fast, modern browser for the npm registry for power users.
+- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 
 ## others 
