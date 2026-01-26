@@ -263,7 +263,7 @@
 
 ## Vue 
 
-- [danielroe/npmx.dev](https://github.com/danielroe/npmx.dev) - A fast, modern browser for the npm registry for power users.
+- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the b
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector) - Visualize The Oxlint.
