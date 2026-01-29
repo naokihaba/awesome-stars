@@ -69,6 +69,7 @@
 
 ## Others 
 
+- [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
 - [voidzero-dev/community-design-resources](https://github.com/voidzero-dev/community-design-resources) - 
 - [voidzero-dev/vite-plus-discussions](https://github.com/voidzero-dev/vite-plus-discussions) - Issue Tracking & Discussions for the Vite+ Technical Preview.
 - [chibivue-land/art](https://github.com/chibivue-land/art) - 
@@ -85,6 +86,7 @@
 
 ## Rust 
 
+- [ubugeeei/bgql](https://github.com/ubugeeei/bgql) - Better GraphQL
 - [ushironoko/octorus](https://github.com/ushironoko/octorus) - TUI PR review tool for GitHub
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ubugeeei/vraftls](https://github.com/ubugeeei/vraftls) - 
@@ -108,11 +110,13 @@
 
 ## TypeScript 
 
+- [mates-system/pinia-colada-graphql](https://github.com/mates-system/pinia-colada-graphql) - 
+- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
-- [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - 
+- [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - Lightweight Temporal polyfill
 - [ubugeeei/fuckin-strict-nuxt-dmmf](https://github.com/ubugeeei/fuckin-strict-nuxt-dmmf) - 
 - [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
