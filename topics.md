@@ -285,10 +285,14 @@
 
 ## others 
 
+- [ubugeeei/bgql](https://github.com/ubugeeei/bgql) - Better GraphQL
+- [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
+- [mates-system/pinia-colada-graphql](https://github.com/mates-system/pinia-colada-graphql) - 
+- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [edison1105/rolldown-path.default-issue](https://github.com/edison1105/rolldown-path.default-issue) - 
 - [zhiyuanzmj/vue-jsx-vapor-ssr](https://github.com/zhiyuanzmj/vue-jsx-vapor-ssr) - 
-- [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - 
+- [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - Lightweight Temporal polyfill
 - [ubugeeei/fuckin-strict-nuxt-dmmf](https://github.com/ubugeeei/fuckin-strict-nuxt-dmmf) - 
 - [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
 - [ushironoko/octorus](https://github.com/ushironoko/octorus) - TUI PR review tool for GitHub
