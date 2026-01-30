@@ -158,7 +158,7 @@
 
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ Meta Framework for building UI Libraries
+- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ A Meta Framework for building UI Libraries
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
@@ -243,7 +243,7 @@
 
 ## library 
 
-- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ Meta Framework for building UI Libraries
+- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ A Meta Framework for building UI Libraries
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
 
@@ -285,6 +285,7 @@
 
 ## others 
 
+- [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
 - [ubugeeei/bgql](https://github.com/ubugeeei/bgql) - Better GraphQL
 - [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
 - [mates-system/pinia-colada-graphql](https://github.com/mates-system/pinia-colada-graphql) - 
@@ -528,7 +529,7 @@
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
-- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ Meta Framework for building UI Libraries
+- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ A Meta Framework for building UI Libraries
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
@@ -540,7 +541,7 @@
 ## ui 
 
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
-- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ Meta Framework for building UI Libraries
+- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ A Meta Framework for building UI Libraries
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 
 ## vue 
