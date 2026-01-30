@@ -78,6 +78,7 @@
 - [Devographics/locale-en-US](https://github.com/Devographics/locale-en-US) - 
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
+- [nitrojs/vite-examples](https://github.com/nitrojs/vite-examples) - Nitro v3 + Vite Examples
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [oxc-project/oxc-perf-wins](https://github.com/oxc-project/oxc-perf-wins) - 
@@ -110,6 +111,7 @@
 
 ## TypeScript 
 
+- [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
 - [mates-system/pinia-colada-graphql](https://github.com/mates-system/pinia-colada-graphql) - 
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
@@ -171,7 +173,6 @@
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
-- [nitrojs/vite-examples](https://github.com/nitrojs/vite-examples) - Nitro v3 + Vite Examples
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic Env Info
 - [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from an existing ESLint flat config.
 - [h3js/rendu](https://github.com/h3js/rendu) - 🏎️ JavaScript Hypertext Preprocessor. [experimental]
@@ -192,7 +193,7 @@
 - [vitejs/vite-plugin-basic-ssl](https://github.com/vitejs/vite-plugin-basic-ssl) - Basic https setup using an automatically generated self-signed certificate
 - [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
-- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ Meta Framework for building UI Libraries
+- [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ A Meta Framework for building UI Libraries
 - [sxzz/npm-top-provenance](https://github.com/sxzz/npm-top-provenance) - Provenance of High Impact on npm
 - [antfu/starter-vue-webcomponent-uno](https://github.com/antfu/starter-vue-webcomponent-uno) - Starter for creating agnostic WebComponents using Vue and UnoCSS
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
