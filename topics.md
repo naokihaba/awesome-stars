@@ -16,6 +16,7 @@
 - [cms](#cms)
 - [command-line](#command-line)
 - [compiler](#compiler)
+- [config](#config)
 - [css](#css)
 - [developer-tools](#developer-tools)
 - [devops](#devops)
@@ -124,6 +125,10 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [ubugeeei/reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor) - To understand how Vue Vapor implemented by reading through the source code.
 
+## config 
+
+- [sxzz/eslint-config](https://github.com/sxzz/eslint-config) - A opinionated ESLint config preset.
+
 ## css 
 
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
@@ -147,6 +152,7 @@
 
 ## eslint 
 
+- [sxzz/eslint-config](https://github.com/sxzz/eslint-config) - A opinionated ESLint config preset.
 - [52-entertainment/vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - ⚓️+⚡️- Oxlint plugin for vite.
 - [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
 - [intlify/eslint-plugin-vue-i18n](https://github.com/intlify/eslint-plugin-vue-i18n) - :globe_with_meridians: ESLint plugin for Vue I18n
